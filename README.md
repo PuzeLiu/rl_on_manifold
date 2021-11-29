@@ -37,8 +37,6 @@ Environment options [C], algorithms options [TRPO, PPO, SAC, DDPG, TD3]
 python collision_avoidance_exp.py --render --env H --alg SAC
 ```
 
-### Plotting the learning curve
-
 
 ## Bibtex
 ```bibtex
