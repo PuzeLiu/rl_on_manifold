@@ -1,0 +1,7 @@
+numpy>=1.17.0
+matplotlib>=3.3.4
+scipy>=1.5.2
+mushroom-rl>=1.7.0
+pandas>=1.2.1
+pybullet>=3.0.8
+pytorch
