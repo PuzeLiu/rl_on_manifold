@@ -28,13 +28,13 @@ python planar_air_hockey_exp.py --debug-gui --env H --alg SAC
 ### IiwaAirHockey Environment. 
 Environment options [7H, RMP], algorithms options [TRPO, PPO, SAC, DDPG, TD3]
 ```python
-python iiwa_air_hockey_exp.py --debug-gui --env H --alg SAC
+python iiwa_air_hockey_exp.py --debug-gui --env 7H --alg SAC
 ```
 
 ### CollisionAvoidance Environment. 
 Environment options [C], algorithms options [TRPO, PPO, SAC, DDPG, TD3]
 ```python
-python collision_avoidance_exp.py --render --env H --alg SAC
+python collision_avoidance_exp.py --render --env C --alg SAC
 ```
 
 
