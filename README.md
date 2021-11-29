@@ -1,4 +1,7 @@
 # Acting on the Tangent Space of the Constraint Manifold
+<p align="center">
+<img src=https://github.com/PuzeLiu/rl_on_manifold/blob/master/fig/manifold.gif width="400">
+</p>
 Implementation of "Robot Reinforcement Learning on the Constraint Manifold"
 
 [[paper]](https://www.ias.informatik.tu-darmstadt.de/uploads/Team/PuzeLiu/CORL_2021_Learning_on_the_Manifold.pdf)
